@@ -1,6 +1,6 @@
 INSERT INTO authors (name) VALUES
-    ("J.K. Rowling"),
-("Stephen King");
+  ("J.K. Rowling"),
+  ("Stephen King");
 
 INSERT INTO series (title, author_id, subgenre_id) VALUES
   ("Harry Potter", 1, 2),
@@ -11,8 +11,8 @@ INSERT INTO subgenres (name) VALUES
   ("Horror");
 
 INSERT INTO books (title, year, series_id) VALUES
-  ("Fellowship of the Ring", 1954, 1),
-  ("The Two Towers", 1954, 1),
+  ("Sorcer's Stone", 1993, 1),
+  ("Prisoner of Azkaban", 1995, 1),
   ("The Return of the King", 1955, 1),
   ("Foundation", 1951, 2),
   ("Foundation and Empire", 1952, 2),
