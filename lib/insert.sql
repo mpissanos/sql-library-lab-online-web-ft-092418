@@ -14,9 +14,9 @@ INSERT INTO books (title, year, series_id) VALUES
   ("Sorcer's Stone", 1993, 1),
   ("Prisoner of Azkaban", 1995, 1),
   ("The Chamber of Secrets", 1999, 1),
-  ("The Dark Tower: The Gunslinger", 1951, 2),
-  ("The Dark Tower II: The Drawing of the Three", 1952, 2),
-  ("SThe Dark Tower III: The Waste Lands", 1953, 2);
+  ("The Dark Tower: The Gunslinger", 1982, 2),
+  ("The Dark Tower II: The Drawing of the Three", 1987, 2),
+  ("SThe Dark Tower III: The Waste Lands", 1991, 2);
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
   ("Bilbo Baggins", "Never give up", "hobbit", 1, 1),
