@@ -25,7 +25,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
   (" " , "There's something in my eye", "elf", 1, 1),
   ("Roland Deschain ", "Mathmatics rules", "human", 2, 2),
   ("Eddie Dean ", "Seldon rules", "human", 2, 2),
-  (" ", "", "human", 2, 2),
+  ("Jake Chambers ", "", "human", 2, 2),
   (" ", "Stay the course", "human", 2, 2);
 
 INSERT INTO character_books (character_id, book_id) VALUES
