@@ -16,17 +16,17 @@ INSERT INTO books (title, year, series_id) VALUES
   ("The Chamber of Secrets", 1999, 1),
   ("The Dark Tower: The Gunslinger", 1982, 2),
   ("The Dark Tower II: The Drawing of the Three", 1987, 2),
-  ("SThe Dark Tower III: The Waste Lands", 1991, 2);
+  ("The Dark Tower III: The Waste Lands", 1991, 2);
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
-  ("Bilbo Baggins", "Never give up", "hobbit", 1, 1),
-  ("Pippin Took", "Let's eat!", "hobbit", 1, 1),
-  ("Gandalf", "The fate of the world is upon us", "human", 1, 1),
-  ("Legolas", "There's something in my eye", "elf", 1, 1),
-  ("Harry Seldon", "Mathmatics rules", "human", 2, 2),
-  ("Gaal Dornick", "Seldon rules", "human", 2, 2),
-  ("King Leopold", "", "human", 2, 2),
-  ("Salvor Hardin", "Stay the course", "human", 2, 2);
+  ("Bilbo ", "Never give up", "hobbit", 1, 1),
+  ("Pip ", "Let's eat!", "hobbit", 1, 1),
+  ( , "The fate of the world is upon us", "human", 1, 1),
+  ( , "There's something in my eye", "elf", 1, 1),
+  ("Harr ", "Mathmatics rules", "human", 2, 2),
+  ("Gaal ", "Seldon rules", "human", 2, 2),
+  ("King ", "", "human", 2, 2),
+  (" ", "Stay the course", "human", 2, 2);
 
 INSERT INTO character_books (character_id, book_id) VALUES
   (1,1),
