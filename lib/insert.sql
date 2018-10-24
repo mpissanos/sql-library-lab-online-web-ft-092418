@@ -19,13 +19,13 @@ INSERT INTO books (title, year, series_id) VALUES
   ("The Dark Tower III: The Waste Lands", 1991, 2);
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
-  ("Bilbo ", "Never give up", "hobbit", 1, 1),
-  ("Pip ", "Let's eat!", "hobbit", 1, 1),
-  ( , "The fate of the world is upon us", "human", 1, 1),
-  ( , "There's something in my eye", "elf", 1, 1),
-  ("Harr ", "Mathmatics rules", "human", 2, 2),
-  ("Gaal ", "Seldon rules", "human", 2, 2),
-  ("King ", "", "human", 2, 2),
+  (" ", "Never give up", "hobbit", 1, 1),
+  (" ", "Let's eat!", "hobbit", 1, 1),
+  (" ", "The fate of the world is upon us", "human", 1, 1),
+  (" " , "There's something in my eye", "elf", 1, 1),
+  (" ", "Mathmatics rules", "human", 2, 2),
+  (" ", "Seldon rules", "human", 2, 2),
+  (" ", "", "human", 2, 2),
   (" ", "Stay the course", "human", 2, 2);
 
 INSERT INTO character_books (character_id, book_id) VALUES
