@@ -21,7 +21,7 @@ INSERT INTO books (title, year, series_id) VALUES
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
   ("Harry Potter ", "Never give up", "hobbit", 1, 1),
   ("Ronald Weasley", "Let's eat!", "hobbit", 1, 1),
-  (" ", "The fate of the world is upon us", "human", 1, 1),
+  ("Hermoine Granger", "Careful Harry!", "human", 1, 1),
   (" " , "There's something in my eye", "elf", 1, 1),
   ("Roland Deschain ", "He can not imagine anything other than surviving to find the Tower.", "human", 2, 2),
   ("Eddie Dean ", "The way of the gun ", "human", 2, 2),
