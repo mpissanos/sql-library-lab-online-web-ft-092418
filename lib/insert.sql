@@ -14,7 +14,7 @@ INSERT INTO books (title, year, series_id) VALUES
   ("Sorcer's Stone", 1993, 1),
   ("Prisoner of Azkaban", 1995, 1),
   ("The Chamber of Secrets", 1999, 1),
-  ("The Dark Tower I: The Waste Lands", 1951, 2),
+  ("The Dark Tower: The Gunslinger", 1951, 2),
   ("The Dark Tower II: The Waste Lands", 1952, 2),
   ("SThe Dark Tower III: The Waste Lands", 1953, 2);
 
