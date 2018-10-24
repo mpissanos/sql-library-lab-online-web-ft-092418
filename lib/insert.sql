@@ -19,8 +19,8 @@ INSERT INTO books (title, year, series_id) VALUES
   ("The Dark Tower III: The Waste Lands", 1991, 2);
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
-  (" ", "Never give up", "hobbit", 1, 1),
-  (" ", "Let's eat!", "hobbit", 1, 1),
+  ("Harry Potter ", "Never give up", "hobbit", 1, 1),
+  ("Ronald Weasley", "Let's eat!", "hobbit", 1, 1),
   (" ", "The fate of the world is upon us", "human", 1, 1),
   (" " , "There's something in my eye", "elf", 1, 1),
   ("Roland Deschain ", "He can not imagine anything other than surviving to find the Tower.", "human", 2, 2),
