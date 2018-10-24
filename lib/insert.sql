@@ -1,1 +1,1 @@
-INSERT INTO 
+INSERT INTO authors (name) VALUES
