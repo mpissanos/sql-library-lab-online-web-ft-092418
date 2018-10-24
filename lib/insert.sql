@@ -1,5 +1,5 @@
-INSERT INTO authors (name) VALUES
+INSERT INTO authors (name) VALUE
 ("J.K. Rowling"),
 ("Stephen King");
 
-INSERT INTO series 
+INSERT INTO series (title, author_id, subgenre_id) VALUE
