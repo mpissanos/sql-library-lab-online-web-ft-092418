@@ -24,7 +24,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
   (" ", "The fate of the world is upon us", "human", 1, 1),
   (" " , "There's something in my eye", "elf", 1, 1),
   ("Roland Deschain ", "Mathmatics rules", "human", 2, 2),
-  (" ", "Seldon rules", "human", 2, 2),
+  ("Eddie Dean ", "Seldon rules", "human", 2, 2),
   (" ", "", "human", 2, 2),
   (" ", "Stay the course", "human", 2, 2);
 
