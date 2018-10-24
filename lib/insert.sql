@@ -13,7 +13,7 @@ INSERT INTO subgenres (name) VALUES
 INSERT INTO books (title, year, series_id) VALUES
   ("Sorcer's Stone", 1993, 1),
   ("Prisoner of Azkaban", 1995, 1),
-  ("The Return of the King", 1955, 1),
+  ("The Chamber of Secrets", 1999, 1),
   ("Foundation", 1951, 2),
   ("Foundation and Empire", 1952, 2),
   ("Second Foundation", 1953, 2);
