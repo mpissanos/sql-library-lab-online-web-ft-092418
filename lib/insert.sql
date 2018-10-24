@@ -22,7 +22,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
   ("Harry Potter ", "Never give up", "hobbit", 1, 1),
   ("Ronald Weasley", "Let's eat!", "hobbit", 1, 1),
   ("Hermoine Granger", "Careful Harry!", "human", 1, 1),
-  (" " , "There's something in my eye", "elf", 1, 1),
+  ("Neville Longbottom " , "There's something in my eye", "elf", 1, 1),
   ("Roland Deschain ", "He can not imagine anything other than surviving to find the Tower.", "human", 2, 2),
   ("Eddie Dean ", "The way of the gun ", "human", 2, 2),
   ("Jake Chambers ", "Jake's given name is John, but he prefers to be known by Jake", "human", 2, 2),
